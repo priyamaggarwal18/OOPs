@@ -1,4 +1,4 @@
-# Class
+# Class   (User Defined Datatype)
 In C++, class is a group of similar objects.
 - A Class is a user-defined data type that has data members and member functions.
 - Data members are the data variables and member functions are the functions used to manipulate these variables together,
